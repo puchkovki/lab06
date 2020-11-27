@@ -1,4 +1,4 @@
-## Laboratory work VI [![Build Status](https://travis-ci.com/puchkovki/lab06.svg?branch=master)](https://travis-ci.com/puchkovki/lab06)
+## Laboratory work VI [![Build Status](https://travis-ci.com/puchkovki/lab06-CPack.svg?branch=master)](https://travis-ci.com/puchkovki/lab06-CPack)
 
 Данная лабораторная работа посвещена изучению средств пакетирования на примере **CPack**
 
